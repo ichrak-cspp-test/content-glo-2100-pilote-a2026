@@ -1,0 +1,45 @@
+{
+  "repositories": {
+    "tp-test-netbeans": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    },
+    "tp1-glo-2100": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "tp1-travail-individuel": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "tp2-sans-assignment": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    },
+    "tp3": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    },
+    "tp3-testgrpself": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "tp3grpself": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "former-votre-quipe"
+    ],
+    "slides": []
+  }
+}
