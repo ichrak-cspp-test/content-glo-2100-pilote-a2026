@@ -4,8 +4,50 @@
       "id": "p1",
       "type": "paragraph",
       "props": {
-        "textColor": "default",
         "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Pour le TP3, cliquez sur le lien ci-dessous pour créer votre équipe ou rejoindre celle d'un camarade », suivi de ",
+          "styles": {
+            "textColor": "rgb(195, 194, 183)",
+            "backgroundColor": "rgb(26, 26, 25)"
+          }
+        },
+        {
+          "type": "link",
+          "href": "https://app.classmoji.io/student/glo-2100-pilote-a2026/repos/tp3-testgrpself/team",
+          "content": [
+            {
+              "type": "text",
+              "text": "https://app.classmoji.io/student/glo-2100-pilote-a2026/repos/tp3-testgrpself/team",
+              "styles": {
+                "textColor": "rgb(195, 194, 183)",
+                "backgroundColor": "rgb(26, 26, 25)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " .",
+          "styles": {
+            "textColor": "rgb(195, 194, 183)",
+            "backgroundColor": "rgb(26, 26, 25)"
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bbe6df27-3aa9-4f2f-8b2e-3b956ddd01e0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
         "textAlignment": "left"
       },
       "content": [],
