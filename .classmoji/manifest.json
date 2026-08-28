@@ -3,7 +3,12 @@
     "tp-netbeans-gif-1003": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "gif-1003-labo-tp1-net": {
+          "pages": [],
+          "slides": []
+        }
+      }
     },
     "tp-test-netbeans": {
       "pages": [],
